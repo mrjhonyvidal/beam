@@ -70,7 +70,7 @@ guppy3==3.0.10
 mmh3==2.5.1
 orjson==3.6.1
 python-dateutil == 2.8.1
-requests == 2.24.0
+requests == 2.31.0
 freezegun == 0.3.15
 pillow == 7.2.0
 python-snappy == 0.5.4
